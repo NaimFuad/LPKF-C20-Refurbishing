@@ -1,5 +1,9 @@
 # LPKF-C20-Refurbishing
 
+Status : Progress Completed. Machine is up and running smoothly. 
+
+Videos : https://youtu.be/ZwDG8o3o-HE
+
 The main idea behind this project is to refurbish LPKF Protomat C20 PCB milling machine with open source hardware, firmware and software.
 
 TThe LPKF C20 machine is a PCB milling machine that creates a PCB board by milling the contour based from the PCB design. We bought this machine in 2005 and the machine has stop functioning due to faulty at controller board.
