@@ -10,4 +10,4 @@ The thought process behind this project was recorded through this report from un
 
 Repairing the main board by replacing the IC should be a piece of cake but the only problem arises from the software since it is outdated and also based on license. All hardware , software and firmware of he newly refurbished board was from open source community that are free to download and esily available on the market.
 
-Refer to the Wiki page fpr further information.
+Refer to the Report for full information.
