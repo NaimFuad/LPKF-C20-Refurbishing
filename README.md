@@ -16,4 +16,4 @@ Repairing the main board by replacing the IC should be a piece of cake but the o
 
 Refer to the Report for full information.
 
-https://github.com/NaimFuad/LPKF-C20-Refurbishing/blob/main/IMG_20200219_123123.jpg
+
