@@ -2,6 +2,9 @@
 
 Status : Progress Completed. Machine is up and running smoothly. 
 
+![](https://github.com/NaimFuad/LPKF-C20-Refurbishing/blob/main/3885281602255968091.jpg)
+![](https://github.com/NaimFuad/LPKF-C20-Refurbishing/blob/main/IMG_20200219_123133.jpg)
+
 Videos : https://youtu.be/ZwDG8o3o-HE
 
 Hackaday.io : https://hackaday.io/project/175303-refurbishing-lpkf-protomat-c20
