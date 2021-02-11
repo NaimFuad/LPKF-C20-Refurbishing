@@ -2,7 +2,13 @@
 
 Status : Progress Completed. Machine is up and running smoothly. 
 
+# Machine Oveview
 ![](https://github.com/NaimFuad/LPKF-C20-Refurbishing/blob/main/3885281602255968091.jpg)
+
+# Milled Result
+![](https://github.com/NaimFuad/LPKF-C20-Refurbishing/blob/main/IMG_20200219_123123.jpg)
+
+# Etched comparison
 ![](https://github.com/NaimFuad/LPKF-C20-Refurbishing/blob/main/IMG_20200219_123133.jpg)
 
 Videos : https://youtu.be/ZwDG8o3o-HE
